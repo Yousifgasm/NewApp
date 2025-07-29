@@ -1,0 +1,8 @@
+.name {
+    background-color: aqua;
+    color: white;
+    border: none;
+    display: flex;
+    font-size: 50px;
+    cursor: pointer;
+}
